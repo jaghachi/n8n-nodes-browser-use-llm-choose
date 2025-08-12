@@ -45,7 +45,7 @@
       "dist/credentials/BrowserUseLocalBridgeApi.credentials.js"
     ],
     "nodes": [
-      "dist/nodes/BrowserUse/BrowserUse.node.js"
+      "dist/nodes/BrowserUseCustom/BrowserUseCustom.node.js"
     ]
   },
   "devDependencies": {
@@ -55,7 +55,7 @@
     "gulp": "^4.0.2",
     "n8n-core": "^1.14.1",
     "prettier": "^3.3.2",
-    "typescript": "^5.5.3"
+    "typescript": "^5.9.2"
   },
   "peerDependencies": {
     "n8n-workflow": "*"

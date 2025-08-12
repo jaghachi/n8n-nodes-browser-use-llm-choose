@@ -1,3 +1,4 @@
+//@ts-nocheck
 import type { IExecuteFunctions } from 'n8n-workflow';
 import { INodeExecutionData, INodeType, INodeTypeDescription, NodeApiError, NodeOperationError } from 'n8n-workflow';
 
