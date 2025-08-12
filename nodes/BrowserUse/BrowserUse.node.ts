@@ -3,8 +3,8 @@ import { INodeExecutionData, INodeType, INodeTypeDescription, NodeApiError, Node
 
 export class BrowserUse implements INodeType {
 	description: INodeTypeDescription = {
-		displayName: 'Browser Use',
-		name: 'browserUse',
+		displayName: 'Browser Use Custom',
+		name: 'browserUseCustom',
 		icon: 'file:icons/browseruse.svg',
 		group: ['transform'],
 		version: 1,
